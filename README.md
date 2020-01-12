@@ -1,2 +1,2 @@
 # exampleProject
-the Germans got there first
+Before the Germans got there first
