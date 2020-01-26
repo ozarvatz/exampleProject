@@ -1,8 +1,3 @@
-# exampleProject
-Before the Germans got there first
-<br>
+the Germans got there first 
 bla bla bla
-<br>
-NOT A PACH at all
-<br>
-common files
+pach mashu mshu 
